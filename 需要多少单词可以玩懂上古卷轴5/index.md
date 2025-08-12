@@ -2,7 +2,7 @@
 title: "需要多少单词可以玩懂上古卷轴5"
 date: 2022-11-16
 tags: ["游戏", "研究"]
-heroImage: "tes5_cloud.png"
+heroImage: "wotr_cloud.png"
 comments: false
 draft: true
 ---
