@@ -8,6 +8,12 @@ ShowToc: true
 math: true
 chart: true
 draft: false
+rpg:
+  region: oracle
+  rewardItem: "卦影残片"
+  title: "卜辞解读者"
+  questId: "fate-engine"
+  questLabel: "命理与证明"
 ---
 
 ## 张麻子

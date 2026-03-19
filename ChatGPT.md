@@ -4,6 +4,12 @@ date: 2022-12-10
 tags: ["随笔", "研究"]
 heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
 draft: false
+rpg:
+  region: machine-hall
+  rewardItem: "逻辑火种"
+  title: "机巧书记员"
+  questId: "thinking-machines"
+  questLabel: "思维机器见闻录"
 ---
 
 自上世纪计算机革新以来，计算机已经逐渐成为人类主要的生产力工具。然而人类仍缺少一个颠覆性的计算机助手，也即普通人把计算机作为生产力工具的人机交互方式，仍然是有较高门槛与学习成本的。
